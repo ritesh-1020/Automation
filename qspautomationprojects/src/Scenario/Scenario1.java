@@ -15,8 +15,7 @@ public class Scenario1 {
 		driver.switchTo().activeElement().sendKeys("riteshshinde1020@gmail.com",Keys.ENTER);
 		
 		
-		
-
+	
 	}
 
 }
